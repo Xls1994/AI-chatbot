@@ -6,7 +6,8 @@ python 3.8 以上环境，建议使用 python 3.8.5
 
 ```pip install flask chromadb gradio fastapi langchain FlagEmbedding ```
 ## 详细教程  
-详细教程请看  https://zhuanlan.zhihu.com/p/671667332
+详细教程请看  
+https://zhuanlan.zhihu.com/p/671667332
 
 如有问题，欢迎微信联系  
 
