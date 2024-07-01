@@ -11,5 +11,7 @@ https://zhuanlan.zhihu.com/p/671667332
 
 如有问题，欢迎微信联系  
 
-<img src="https://github.com/Xls1994/AI-chatbot/assets/18399421/a039c38d-83d3-4bd3-a2af-ea4cb8876228" width="30%">
+<img src="https://github.com/Xls1994/AI-chatbot/assets/18399421/5a43bc78-de2b-46c2-8b78-42fa6973120b" width="30%">
+
+![IMG](https://github.com/Xls1994/AI-chatbot/assets/18399421/5a43bc78-de2b-46c2-8b78-42fa6973120b)
 
