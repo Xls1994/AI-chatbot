@@ -1,5 +1,7 @@
 # AI-chatbot
-基于 langchain+gradio 搭建本地个人助理
+基于 langchain+gradio 搭建本地个人助理。
+
+智谱 API 代码 ：https://github.com/Xls1994/llm-universe 
 
 ##  环境依赖
 python 3.8 以上环境，建议使用 python 3.8.5
